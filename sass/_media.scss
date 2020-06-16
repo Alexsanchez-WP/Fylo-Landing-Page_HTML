@@ -1,0 +1,133 @@
+// Media quieris 768px
+@media (min-width: 768px) {
+  //header
+  .header-nav {
+    .img-nav {
+      img {
+        width: 15rem;
+      }
+    }
+  }
+  // Nav
+
+  .nav {
+    ul {
+      justify-content: flex-end;
+
+      li {
+        margin-left: 5rem;
+      }
+    }
+  }
+
+  .section-header {
+    flex-direction: row;
+
+    .info-header {
+      text-align: left;
+      flex: 0 0 calc(50% - 8rem);
+
+      h1 {
+        font-size: 3rem;
+      }
+    }
+  }
+
+  .img-header {
+    flex: 0 0 calc(50%);
+  }
+
+  .form-header {
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+
+    input {
+      flex: 0 0 60%;
+      margin-right: 1rem;
+    }
+
+    button {
+      flex: 0 0 40%;
+    }
+  }
+  //main
+  main {
+    .main {
+      flex-direction: row;
+      text-align: left;
+
+      section {
+        flex: 0 0 50%;
+
+        h2 {
+          font-size: 3rem;
+        }
+
+        p {
+          width: 80%;
+        }
+      }
+
+      .icon-arrow {
+        display: block;
+        margin-top: 0;
+      }
+
+      blockquote {
+        width: 60%;
+        margin-left: 0;
+      }
+
+      .img-main {
+        flex: 0 0 calc(50% - 5rem);
+      }
+    }
+  }
+//Section blue
+  .section-blue {
+    .content {
+      display: flex;
+      justify-content: space-between;
+      margin: 5rem auto;
+
+      .head-blue {
+        flex: 0 0 40%;
+        text-align: left;
+      }
+
+      .footer-blue {
+        flex: 0 0 50%;
+        align-items: flex-start;
+      }
+    }
+  }
+
+  .form-blue {
+    align-items: flex-start;
+
+    input {
+      padding: 0.6rem;
+      width: 80%;
+    }
+
+    button {
+      padding: 0.7rem;
+      width: 40%;
+    }
+  }
+  // Address footer
+
+  .address-flex {
+    flex-direction: row;
+    margin-top: 4rem;
+
+    .address {
+      margin: 0;
+    }
+
+    .social {
+      margin: 0;
+    }
+  }
+}

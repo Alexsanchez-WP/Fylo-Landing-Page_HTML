@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/205692f3-851e-4b6e-836a-20f3ccf7fbfd/deploy-status)](https://app.netlify.com/sites/fylo-alexander-wp/deploys)
+
 # Fylo landing page with two column layout
 
 ![Design preview for the Fylo landing page with two column layout challenge](./design/desktop-preview.jpg)
@@ -20,4 +22,4 @@ This is a page made with HTML5 and SASS
 
 `npm install -g sass`
 
-### Puedes ver el resutlado de la pagina en dando click [aqui](https://fylo-alexander-wp.netlify.app/)
+Puedes ver el resutlado de la pagina en dando click [aqui](https://fylo-alexander-wp.netlify.app/)

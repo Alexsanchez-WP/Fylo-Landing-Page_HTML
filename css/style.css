@@ -97,6 +97,7 @@ img {
 .header-nav .nav {
   flex: 0 0 calc(55%);
 }
+
 .section-header {
   flex-direction: column-reverse;
   margin: 8rem 0;

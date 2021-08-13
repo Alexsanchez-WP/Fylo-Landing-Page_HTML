@@ -20,6 +20,9 @@ This is a page made with HTML5 and SASS
 
 ## Instala SASS de forma global
 
-`npm install -g sass`
+```
+npm install -g sass
+npm run watch
+```
 
 Puedes ver el resutlado de la pagina en dando click [aqui](https://fylo-alexander-wp.netlify.app/)

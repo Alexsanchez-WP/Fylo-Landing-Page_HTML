@@ -8,6 +8,8 @@ $moderateCyan: hsl(170, 45%, 43%); // Neutral colors
 $lightGrayishBlue: hsl(240, 75%, 98%);
 $lightGray: hsl(0, 0%, 75%);
 
+
+
 html {
   box-sizing: border-box;
   font-size: 62.5%;
@@ -107,8 +109,6 @@ img {
 
   .nav {
     flex: 0 0 calc(55%);
-
-    a {}
   }
 }
 

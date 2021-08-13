@@ -1,0 +1,23 @@
+{
+  "name": "fylo-landing-page_html",
+  "version": "1.0.0",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/205692f3-851e-4b6e-836a-20f3ccf7fbfd/deploy-status)](https://app.netlify.com/sites/fylo-alexander-wp/deploys)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "sass --watch sass/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexsanchez-WP/Fylo-Landing-Page_HTML.git"
+  },
+  "author": "Alexsanchez-WP",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Alexsanchez-WP/Fylo-Landing-Page_HTML/issues"
+  },
+  "homepage": "https://github.com/Alexsanchez-WP/Fylo-Landing-Page_HTML#readme",
+  "dependencies": {
+    "sass": "^1.37.5"
+  }
+}
